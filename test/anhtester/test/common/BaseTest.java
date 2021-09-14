@@ -1,4 +1,4 @@
-package anhtester.automation.common;
+package anhtester.test.common;
 
 import java.awt.*;
 import java.io.IOException;
@@ -15,7 +15,7 @@ import org.testng.annotations.*;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class BaseTestClass {
+public class BaseTest {
 
     //static String driverPath = "src\\main\\resources\\drivers\\";
     public WebDriver driver;

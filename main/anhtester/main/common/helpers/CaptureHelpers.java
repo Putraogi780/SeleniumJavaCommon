@@ -1,4 +1,4 @@
-package anhtester.common.helpers;
+package anhtester.main.helpers;
 
 import anhtester.common.utilities.LoadConfigFile;
 import org.openqa.selenium.OutputType;
