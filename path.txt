@@ -1,4 +1,6 @@
-main/help/ValidateUIHelpers.java
+main/helpers/ValidateUIHelpers.java
 https://raw.githubusercontent.com/anhtester/SeleniumJavaCommon/main/main/helpers/ValidateUIHelpers.java
-main/help/ExcelHelpers.java
+main/helpers/ExcelHelpers.java
 https://raw.githubusercontent.com/anhtester/SeleniumJavaCommon/main/main/helpers/ExcelHelpers.java
+test/common/BaseTest.java
+https://raw.githubusercontent.com/anhtester/SeleniumJavaCommon/main/test/common/BaseTest.java
