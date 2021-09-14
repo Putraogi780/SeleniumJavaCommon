@@ -1,4 +1,4 @@
-package anhtester.common.helpers;
+package anhtester.main.common.helpers;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;

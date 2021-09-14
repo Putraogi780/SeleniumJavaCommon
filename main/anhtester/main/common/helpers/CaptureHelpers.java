@@ -1,6 +1,7 @@
-package anhtester.main.helpers;
+package anhtester.main.common.helpers;
 
-import anhtester.common.utilities.LoadConfigFile;
+import anhtester.main.common.utilities.LoadConfigFile;
+
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
@@ -19,7 +20,6 @@ import org.monte.media.FormatKeys.MediaType;
 import org.monte.media.Registry;
 import org.monte.media.math.Rational;
 import org.monte.screenrecorder.ScreenRecorder;
-
 import static org.monte.media.AudioFormatKeys.*;
 import static org.monte.media.VideoFormatKeys.*;
 

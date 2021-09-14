@@ -1,11 +1,11 @@
 package anhtester.test.common;
 
+import anhtester.test.common.utils.logs.Log;
+import anhtester.main.common.helpers.CaptureHelpers;
+
 import java.awt.*;
 import java.io.IOException;
 import java.util.concurrent.TimeUnit;
-
-import anhtester.automation.utils.logs.Log;
-import anhtester.common.helpers.CaptureHelpers;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
