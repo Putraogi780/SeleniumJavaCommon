@@ -1,4 +1,4 @@
-package anhtester.main.common.helpers;
+package anhtester.com.common.helpers;
 
 public class ValidateDatabaseHelpers {
 
