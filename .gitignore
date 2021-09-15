@@ -1,0 +1,7 @@
+.phpintel
+.idea
+web.config
+cache
+index.php
+*.iml
+*.DS_Store
