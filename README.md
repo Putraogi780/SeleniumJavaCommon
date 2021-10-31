@@ -3,6 +3,16 @@ Các hàm dùng chung và config được thiết kế sẵn trong Selenium Java
 
 Anh Tester Blog: https://anhtester.com
 
-ANH TESTER CẢM ƠN CÁC BẠN RẤT NHIỀU
+## Đóng góp xây dựng Tool
 
-![Alt text](https://anhtester.com/uploads/logo/anhtester_logo_512.png?raw=true "Anh Tester - Automation Testing")
+>  Link feedback Tool: https://github.com/anhtester/SeleniumJavaCommon/issues
+
+Mọi người vào tab `Issues` phía trên để tạo một góp ý xây dựng để An cải thiện tool tốt hơn nhé.
+
+
+
+## Hướng dẫn sử dụng Tool
+
+>  Link download Tool: https://anhtester.com/docs/
+
+![Anh Tester](https://anhtester.com/uploads/logo/anhtester_logo_512.png)
